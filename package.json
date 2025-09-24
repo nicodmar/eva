@@ -1,0 +1,12 @@
+{
+  "name": "Eva",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "cypress": "^15.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
